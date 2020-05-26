@@ -4,6 +4,8 @@
 
 ![logo](https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-MANAGER-MOD/master/ADM_MANAGER_MOD.jpg)
 
+-------------------------------------------------------------------------------
+
 **Manager Script**
 
 ## :heavy_exclamation_mark: Requerimientos

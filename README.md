@@ -8,13 +8,15 @@
 
 ## :heavy_exclamation_mark: Requerimientos
 
-1 • RECOMENDADO UBUNTU 14.04
-
-2 • USAR DISTRIBUCION NUEVA O FORMATIADA
+* Un sistema operativo basado en Linux (Ubuntu o Debian)
+* Recomendamos Ubuntu 14.04
+* Se recomienda usar una distro nueva o formatiada
 
 ## Installation
 
 apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-MANAGER-MOD/master/instala.sh; chmod +x instala.sh; ./instala.sh
+
+-------------------------------------------------------------------------------
 
 ```
 * SIN MINERIA! 

@@ -2,7 +2,7 @@
 
 # ESTE PROYECTO A SIDO DESCONTINUADO.--
 
-![logo](https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-MANAGER-MOD/master/ADM_MANAGER_MOD.jpg)
+![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-MANAGER-MOD/blob/master/Imagenes/ADM_MANAGER_MOD.jpg)
 
 -------------------------------------------------------------------------------
 
